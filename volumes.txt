@@ -1,0 +1,18 @@
+Date: 2024-01-27 17:45:51.130644
+Width: 205.0 mm
+Date: 2024-01-27 17:51:33.901654
+Width: 205.0 mm
+Aspect Ratio: 60.0
+Diameter: 15.0 inches
+Date: 2024-01-27 18:18:13.896049
+Width: 205.0 mm
+Aspect Ratio: 60.0
+Diameter: 15.0 inches
+Date: 2024-01-27 18:19:57.173265
+Width: 205.0 mm
+Aspect Ratio: 60.0
+Diameter: 15.0 inches
+Volume: 39.92 liters
+
+2024-01-27 18:27:08.106657: Tire Width: 205.0 mm, Aspect Ratio: 60.0, Wheel Diameter: 15.0 inches, Volume: 39.92 liters
+2024-01-27 20:37:38.296670: Tire Width: 205.0 mm, Aspect Ratio: 60.0, Wheel Diameter: 15.0 inches, Volume: 39.92 liters
