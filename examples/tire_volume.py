@@ -20,30 +20,4 @@ tire_volume = numerator / denominator
 # Print the tire volume with 2 decimal places
 print(f"The approximate volume is {round(tire_volume, 2)} liters")
 
-# Ask if the user wants to buy tires
-buy_tires = input("Do you want to buy tires with these dimensions? (yes/no): ").lower()
-
-# Check user's response
-if buy_tires == "yes":
-    # Prompt for the user's phone number
-    phone_number = input("Please enter your phone number: ")
-
-    # Get the current date and time
-    current_date_and_time = datetime.now()
-
-    # Open the file for appending text
-    with open("volumes.txt", "a") as tire_file:
-        # Write tire properties, volume, phone number, and date/time to the file
-        tire_file.write(f"{current_date_and_time}: Tire Width: {tire_width} mm, Aspect Ratio: {tire_aspect_ratio}, "
-                        f"Wheel Diameter: {wheel_diameter} inches, Volume: {tire_volume:.2f} liters, "
-                        f"Phone Number: {phone_number}\n")
-        print("Thank you! Your information has been recorded.")
-
-else:
-    print("Thank you for using the tire volume calculator.")
-
-#printing the contents
-with open("volumes.txt", "r") as file:
-    file_contents = file.read()
-print("Tire Properties")
-print(file_contents)
+print("Thank you for using the tire volume calculator.")

@@ -16,3 +16,4 @@ Volume: 39.92 liters
 
 2024-01-27 18:27:08.106657: Tire Width: 205.0 mm, Aspect Ratio: 60.0, Wheel Diameter: 15.0 inches, Volume: 39.92 liters
 2024-01-27 20:37:38.296670: Tire Width: 205.0 mm, Aspect Ratio: 60.0, Wheel Diameter: 15.0 inches, Volume: 39.92 liters
+2024-06-18 08:30:27.782760: Tire Width: 50.0 mm, Aspect Ratio: 60.0, Wheel Diameter: 15.0 inches, Volume: 1.94 liters, Phone Number: 08106422829
