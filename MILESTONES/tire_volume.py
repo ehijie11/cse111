@@ -2,7 +2,8 @@
 
 
 #Additional features - Added a conditional statement to collect extra information from the user and store in the Volumes.txt file then also get
-#give the user an option to purchase the tire(s)
+#give the user an option to purchase the tire(s) and also collected names of customer for record purposes and easy accessibilty.
+
 import math
 from datetime import datetime
 
@@ -47,3 +48,6 @@ with open("volumes.txt", "r") as file:
     file_contents = file.read()
 print("Tire Properties")
 print(file_contents)
+
+user_name = input("Please enter your name: ")
+
